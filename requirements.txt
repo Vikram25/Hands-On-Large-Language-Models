@@ -31,7 +31,7 @@ llama_cpp_python == 0.2.78 -C cmake.args="-DLLAMA_BLAS=ON"
 numexpr == 2.10.0
 langchain == 0.2.5
 langchain-community == 0.2.5
-langchain-openai==0.1.8
+langchain-openai==1.1.14
 duckduckgo-search == 7.1.1
 gensim == 4.3.2
 setfit == 1.0.3
